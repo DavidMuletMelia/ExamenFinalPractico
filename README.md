@@ -55,10 +55,13 @@ volumes:
 Una vez creado el archivo docker-compose, necesitaremos tener todo los recursos en el mismo directorio.
 
 Los recursos que utilizaremos son:
+
+```
  -El archivo docker-compose.yml
  -El archivo .war
  -La base de datos, en formato .sql
  -Dockerfile
+ ```
 
 Una vez tengamos todo esto en el mismo directorio, lo que tendremos que hacer es abrir una consola, preferiblemente de Bash, y situarnos en el directorio, en mi caso es `cd desktop/dockerdefinitivo`
 
