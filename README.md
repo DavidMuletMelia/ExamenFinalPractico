@@ -89,6 +89,7 @@ CMD ["catalina.sh", "run"]
 
 ```
 
-Para subir la imagen necesitamos tener los contenedores los cuales queramos meter en la imagen, activos, y a continuación ejecutamos el comando `docker build -t davidmuletmelia/gestionproyectos:latest .` para montar la imagen
+Para subir la imagen necesitamos tener los contenedores los cuales queramos meter en la imagen, activos, y a continuación ejecutamos el comando 
+`docker build -t davidmuletmelia/gestionproyectos:latest .` para montar la imagen
 
 Una vez montada debemos subirla a dockerhub, y eso lo haremos con el siguente comando `docker push davidmuletmelia/gestionproyectos:latest`
