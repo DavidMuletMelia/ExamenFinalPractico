@@ -122,4 +122,11 @@ Si estos pasos se han ejecutado correctamente, nuestra imagen estará subida en 
 
 ![13](https://user-images.githubusercontent.com/91748517/173110420-752ea2e7-556a-40dd-ad60-29696a7a6b87.PNG)
 
+## Conclusiones
 
+La única parte que realmente ha dado problemas y he intentado solucionar por todos los medios que he podido, ha sido la parte de la base de datos. Por lo demás ha sido un despliegue fructífero y espero que tanto este readme como la imagen subida a dockerhub sean de tu agrado
+
+## Anexos
+
+-Link imagen dockerhub: https://hub.docker.com/r/davidmuletmelia/examenfinal
+-Comando pull imagen: docker pull davidmuletmelia/examenfinal
