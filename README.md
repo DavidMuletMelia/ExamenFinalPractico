@@ -128,5 +128,7 @@ La única parte que realmente ha dado problemas y he intentado solucionar por to
 
 ## Anexos
 
+```
 -Link imagen dockerhub: https://hub.docker.com/r/davidmuletmelia/examenfinal
 -Comando pull imagen: docker pull davidmuletmelia/examenfinal
+```
